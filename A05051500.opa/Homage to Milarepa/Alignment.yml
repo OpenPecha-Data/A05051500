@@ -1,0 +1,16 @@
+segment_sources:
+  P4C07A5A0:
+    type: origin_type
+    relation: translation
+    language: en
+  PE540AA3A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bbc631b639944f4fb03c630349c34940:
+    P4C07A5A0: 54393430ba2646138a2c4f41fc79bf1c
+    PE540AA3A: 0dd5607a2b404d2da1f501dc8db76de7
+  6114012e61c74f96b9844270b4674f0c:
+    P4C07A5A0: 6b7e8e6929d64955846cd146087697ac
+    PE540AA3A: b2a99b1d0abb48a1a74bb5b6b00559de
